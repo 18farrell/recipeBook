@@ -1,0 +1,15 @@
+/* styles cascading style sheet*/
+
+div {
+    color: purple;
+    background: black;
+}
+
+p {
+    color:red;
+}
+
+h1 {
+    color: burlywood;
+    background-color: aliceblue;
+}
